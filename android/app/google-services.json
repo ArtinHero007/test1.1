@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826004639232",
+    "project_id": "myfirebase-d4dc2",
+    "storage_bucket": "myfirebase-d4dc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826004639232:android:9e3d5a9cc6f2d8980652e5",
+        "android_client_info": {
+          "package_name": "com.example.pokemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826004639232-ar48obf3rfvl6m3p8v4ck7a17hejubmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZ7EvD-M7p2URVJcaYvpTaiy4yZijalQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826004639232-ar48obf3rfvl6m3p8v4ck7a17hejubmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
